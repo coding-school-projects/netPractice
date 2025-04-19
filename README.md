@@ -76,3 +76,11 @@ level10.conf
 - Practice calculating network ranges quickly
 - Understand the difference between public and private IPs
 - Learn common port numbers (HTTP=80, HTTPS=443, etc.)
+
+### 🧑‍💻 Peer Evaluations (3/3)
+
+> **Peer 1**: "Poonkodi was really nice and complete all tasks on time, after I was asking what is ging on and she explained me all. Thank you! - Alekshandra"
+
+> **Peer 2**: "Great job! Fast eval! - Alex"
+
+> **Peer 3**: "Very good job and explanation! Poonkodi understood clearly what she was doing and she was able to tell it too! We discussed about Netpractice. Thank you for teaching me! - Timo"
