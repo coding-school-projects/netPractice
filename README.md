@@ -1,6 +1,3 @@
-Here's a professional `README.md` for your NetPractice project:
-
-```markdown
 <h1 align="center">
   <img src="https://github.com/senthilpoo10/badges/blob/main/badges/netpracticem.png" alt="NetPractice" width="200"/>
 </h1>
