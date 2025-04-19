@@ -12,8 +12,8 @@
   <img alt="time spent" src="https://img.shields.io/badge/time%20spent-20%20hours-blue" />
   <img alt="XP earned" src="https://img.shields.io/badge/XP%20earned-312-orange" />
 <p align="center">
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/senthilpoo10/netpractice?color=lightblue" />
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/senthilpoo10/netpractice?color=green" />
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/coding-school-projects/netpractice?color=lightblue" />
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/coding-school-projects/netpractice?color=green" />
 </p>
 
 ## 📚 About The Project
